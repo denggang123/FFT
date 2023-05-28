@@ -1,0 +1,29 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "todohighlight.keywords": [
+        {
+            "text": "TODO:",
+            "color": "white",
+            "backgroundColor": "red",
+        },
+        {
+            "text": "ATTENTION:",
+            "color": "white",
+            "backgroundColor": "red",
+        }
+    ],
+    "files.associations": {
+        "__config": "c",
+        "types.h": "c",
+        "game.h": "c",
+        "bubble.h": "c",
+        "print.h": "c",
+        "type_traits": "c",
+        "swap.h": "c",
+        "game_three_points_chess.h": "c",
+        "calculator.h": "c",
+        "calc_runtime.h": "c",
+        "adjust_arr.h": "c",
+        "config.h": "c"
+    }
+}
